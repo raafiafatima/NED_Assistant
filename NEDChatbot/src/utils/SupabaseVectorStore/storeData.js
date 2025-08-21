@@ -75,4 +75,5 @@ async function processFiletoSupabase(file, modal) {
   }
 }
 
-export default processFiletoSupabase
+// run this file to populate your supabase project
+processFiletoSupabase('file_path', 'modal_name')
