@@ -130,5 +130,6 @@ $$;
 ---
 
 ## Author  
-Developed by **[Raafia Fatima]** 
+Developed by **Raafia Fatima** 
+---
 Thanks for reading :)
