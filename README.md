@@ -26,7 +26,7 @@ The **NED Assistant** is an AI-powered chatbot built for students, faculty, and 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/ned-assistant.git
+   git clone https://github.com/raafiafatima/NED_Assistant
    cd ned-assistant
    ```
 
